@@ -1,4 +1,4 @@
-# scanner-using-c-
+# scanner-using-c-plus-plus
 my code takes input from a file and print it on a file,
 i used function (get line ) that take a line from file and push it to string variable 
 called TXT and passing it to a class's function get_input .
