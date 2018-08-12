@@ -1,5 +1,5 @@
 # scanner-using-c-
-#####  my code takes input from a file and print it on a file,
+my code takes input from a file and print it on a file,
 i used function (get line ) that take a line from file and push it to string variable 
 called TXT and passing it to a class's function get_input .
 i made a class scanner having  6 functions 
@@ -25,4 +25,4 @@ if the next char is also digit or something else and print digit .
 if it is special char ,inassign state is executed and program prints it
 if it is error symbol , program prints error
 if it is char , program checks if it is reserved word or 
-an id then inid state is executed . #####
+an id then inid state is executed .
